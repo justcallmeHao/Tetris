@@ -36,7 +36,7 @@ A lightweight Tetris that keeps the classic feel while adding a polished UI: gho
 
 ## 📺 Demo
 
-<video src="README/demo.H264" controls width="720" playsinline></video>
+![DemoVid](README/demo1.mp4)
 
 
 ---
