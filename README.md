@@ -1,7 +1,7 @@
 # 🎮 Tetris — C++/raylib (Game Boy–Inspired)
 
 > _“Simple rules. Endless mastery.”_  
-> This project is a clean, modern take on **Tetris**, written in **C++** with **raylib**, inspired by the iconic **Game Boy Tetris (1989)** vibe
+> This project is a modern take on **Tetris**, written in **C++** with **raylib**, inspired by the iconic **Game Boy Tetris (1989)** vibe
 
 ---
 
@@ -27,17 +27,17 @@ A lightweight Tetris that keeps the classic feel while adding a polished UI: gho
 ---
 
 ## ✨ Features
-- 7‑bag RNG • Ghost piece • Lock delay  
-- Next queue & Hold piece (once per spawn)  
-- Classic scoring (40/100/300/1200 × level), level up every 10 lines  
-- Resizable window, **F11** fullscreen, smooth letterbox scaling (optional)  
-- Background music (streamed **.ogg**) + instant SFX (e.g., **.wav**)
+- Classical gameplay • Ghost piece • Lock delay  
+- Next queue & Hold piece (once per spawn)
+- Points & Hold/Switch pieces
+- Background music of legendary Tetris music
 ---
 
 ## 📺 Demo
 
-![DemoVid](README/demo.mp4)
-
+![DemoVid](README/demo1.gif)
+![gameplay](README/gameplay.png)
+![gameover](README/gameover.png)
 
 ---
 
@@ -80,7 +80,10 @@ See CMakeLists.txt
 
 ---
 
-## 🙌 Credits & Inspiration
+## 🙌 Acknowledgement
 - Built using **[raylib](https://www.raylib.com/)**.  
 - This project is **not affiliated** with or endorsed by Nintendo/The Tetris Company.
 
+---
+## 👥 Credits
+Author: Hao Vo (@justcallmehao) [Contact](https://www.linkedin.com/in/howlvoreworkingspace/)
