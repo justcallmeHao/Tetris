@@ -9,7 +9,7 @@
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "3.30"
+						"string" : "3.16"
 					},
 					"projectIndex" : 0,
 					"source" : ".",
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Tetris::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Tetris-Debug-5a5f9e8253423658167b.json",
+					"jsonFile" : "target-Tetris-Debug-504f2c1c96cd3e6cd5b3.json",
 					"name" : "Tetris",
 					"projectIndex" : 0
 				}

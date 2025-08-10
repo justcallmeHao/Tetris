@@ -10,57 +10,6 @@
 				{
 					"includeDirectories" : 
 					[
-						"C:/Users/haovo/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include",
-						"C:/Users/haovo/AppData/Local/Programs/CLion/bin/mingw/include",
-						"C:/Users/haovo/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed",
-						"C:/Users/haovo/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include"
-					],
-					"linkDirectories" : 
-					[
-						"C:/Users/haovo/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0",
-						"C:/Users/haovo/AppData/Local/Programs/CLion/bin/mingw/lib/gcc",
-						"C:/Users/haovo/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/lib",
-						"C:/Users/haovo/AppData/Local/Programs/CLion/bin/mingw/lib"
-					],
-					"linkFrameworkDirectories" : [],
-					"linkLibraries" : 
-					[
-						"mingw32",
-						"gcc",
-						"moldname",
-						"mingwex",
-						"kernel32",
-						"pthread",
-						"advapi32",
-						"shell32",
-						"user32",
-						"kernel32",
-						"iconv",
-						"mingw32",
-						"gcc",
-						"moldname",
-						"mingwex",
-						"kernel32"
-					]
-				},
-				"path" : "C:/Users/haovo/AppData/Local/Programs/CLion/bin/mingw/bin/gcc.exe",
-				"version" : "13.1.0"
-			},
-			"language" : "C",
-			"sourceFileExtensions" : 
-			[
-				"c",
-				"m"
-			]
-		},
-		{
-			"compiler" : 
-			{
-				"id" : "GNU",
-				"implicit" : 
-				{
-					"includeDirectories" : 
-					[
 						"C:/Users/haovo/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++",
 						"C:/Users/haovo/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32",
 						"C:/Users/haovo/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward",
@@ -112,6 +61,7 @@
 				"cc",
 				"cpp",
 				"cxx",
+				"m",
 				"mm",
 				"mpp",
 				"CPP",
