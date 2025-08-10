@@ -312,9 +312,9 @@ int main() {
                 if (!grounded) { grounded = true; lockTimer = 0.f; }
                 else           { lockTimer += dt; }
                 if (!couldFall && lockTimer >= lockDelayMs) {
-                    bool overflow = pieceAboveTop(cur);   // <--- NEW
+                    bool overflow = pieceAboveTop(cur);
                     lockPiece(grid, cur);
-                    if (overflow) {                       // <--- NEW
+                    if (overflow) {
                         gameOver = true; paused = true;
                     } else {
                         int c = clearLines(grid);
